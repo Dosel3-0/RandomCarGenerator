@@ -1,0 +1,83 @@
+body {
+    background-color: rgb(53, 211, 223); 
+  }
+  
+  h1 {
+    color: rgb(255, 0, 0);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2.6em;
+  }
+
+  .button {
+    background-color: #ff0000;       /* Color and looks of the buttons */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 2px 4px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+  }
+  .button:hover {
+    background-color: #16d14e;        /* Color and looks of the buttons when hovering with mouse */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 2px 4px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+  }
+
+   p {
+    color:rgb(255, 0, 0);   /* Color and position of p text */
+    margin: 2px 4px;
+    text-align: top;
+    margin: 100px 600px;
+    position: relative;
+  }
+
+  #FFImage {
+    display: none;                     /* Color and position and Size of FF Image, Next 2 are for FR and F4*/
+    margin: -400px 600px;
+    position: relative;
+    border: 6px double #ff0000;
+    padding: 5px #ff0000;
+    width: 400px;
+    height: auto;
+}
+
+#FRImage {
+    display: none;
+    margin: -400px 600px;
+    position: relative;
+    border: 6px double #ff0000;
+    padding: 5px #ff0000;
+    width: 400px;
+    height: auto;
+}
+
+#F4Image {
+    display: none;
+    margin: -400px 600px;
+    position: relative;
+    border: 6px double #ff0000;
+    padding: 5px #ff0000;
+    width: 400px;
+    height: auto;
+}
+
+#UText {
+  margin: 2px 2px;
+  text-align: right;    /*Text about what FF,FR and F4 stand for */
+  position: absolute;
+  top: 0; 
+  right: -400px; 
+}
