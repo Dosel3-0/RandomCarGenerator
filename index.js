@@ -5,13 +5,7 @@ const JFF = [
     { name: "1995-2000 Toyota Corolla Levin", image: "Pics/AE111.jpg" },     
     { name: "1991-1997 Mazda MX6", image: "Pics/mx6.jpeg" }
     { name: "1991-1995 Honda Civic", image: "Pics/EG6.jpg" }
-  ];                                                                        
-//Variables containing all the cars in an Array
-//(separated by Region and wheels driven)
-// J=Japan, A=America, E=Europe
-// FF=Front Engine Front Wheel Drive
-// FR=Front Engine Rear Wheel Drive 
- // F4=Front Engine 4 Wheel Drive
+  ];    
 
   const JFR = [
     { name: "1991-2002 Mazda RX7", image: "Pics/RX7.jpg" },
