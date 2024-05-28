@@ -4,7 +4,6 @@ const JFF = [
     { name: "1994-2001 Honda Integra", image: "Pics/DC2.jpg" },              
     { name: "1995-2000 Toyota Corolla Levin", image: "Pics/AE111.jpg" },     
     { name: "1991-1997 Mazda MX6", image: "Pics/mx6.jpeg" }
-    { name: "1991-1995 Honda Civic", image: "Pics/EG6.jpg" }
   ];    
 
   const JFR = [
