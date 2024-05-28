@@ -1,10 +1,10 @@
 const JFF = [
     { name: "1992-1996 Toyota Carina", image: "Pics/Toyota_Carina.jpg" },   
-    { name: "1996-2000 Honda Civic", image: "Pics/Honda_Civic.jpg" },        
-    { name: "1994-2001 Honda Integra", image: "Pics/DC2.jpg" },             
-    { name: "1995-2000 Toyota Corolla Levin", image: "Pics/AE111.jpg" },    
+    { name: "1996-2000 Honda Civic Si", image: "Pics/Honda_Civic.jpg" },        
+    { name: "1994-2001 Honda Integra DC2", image: "Pics/DC2.jpg" },             
+    { name: "1995-2000 Toyota Corolla Levin AE111", image: "Pics/AE111.jpg" },    
     { name: "1991-1997 Mazda MX6", image: "Pics/mx6.jpeg" },
-    { name: "1991-1995 Honda Civic", image: "Pics/EG6.jpg"}
+    { name: "1991-1995 Honda Civic SIR II", image: "Pics/EG6.jpg"}
   ]; 
 
 //Variables containing all the cars in an Array
@@ -19,7 +19,8 @@ const JFF = [
     { name: "1980-1990 Isuzu Piazza", image: "Pics/Piazza.jpg" },
     { name: "1988-1993 Nissan Silvia S13", image: "Pics/Silvia.jpg" },
     { name: "1988-1994 Nissan Cefiro", image: "Pics/Cefiro.jpg" },
-    { name: "1983-1987 Toyota Sprinter Trueno", image: "Pics/AE86.jpg" }
+    { name: "1983-1987 Toyota Sprinter Trueno", image: "Pics/AE86.jpg" },
+    { name: "1997-2005 Toyota Aristo", image: "Pics/Aristo.jpg" }  
   ];
 
   const JF4 = [
@@ -27,7 +28,9 @@ const JFF = [
     { name: "1989-1994 Nissan Skyline R32 GTR", image: "Pics/GTR.jpg" },
     { name: "1992-2000 Subaru Impreza WRX STI", image: "Pics/STI.jpg" },
     { name: "1998-2007 Toyota Land Cruiser", image: "Pics/LandCruiser.jpg" },
-    { name: "2004-2006 Subaru Forester STI", image: "Pics/Forester.jpg" }
+    { name: "2004-2006 Subaru Forester STI", image: "Pics/Forester.jpg" },
+    { name: "1995-1998 Nissan Skyline R33 GTR", image: "Pics/R33.jpg" },
+    { name: "1999-2002 Nissan Skyline R34 GTR", image: "Pics/R34.jpg" }  
   ];
 
   const AFF = [
