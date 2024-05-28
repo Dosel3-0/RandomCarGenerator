@@ -1,10 +1,18 @@
 const JFF = [
-    { name: "1992-1996 Toyota Carina", image: "Pics/Toyota_Carina.jpg" },    //Variables containing all the cars in an Array 
-    { name: "1996-2000 Honda Civic", image: "Pics/Honda_Civic.jpg" },        //(separated by Region and wheels driven)
-    { name: "1994-2001 Honda Integra", image: "Pics/DC2.jpg" },              // J=Japan, A=America, E=Europe
-    { name: "1995-2000 Toyota Corolla Levin", image: "Pics/AE111.jpg" },     // FF=Front Engine Front Wheel Drive 
-    { name: "1991-1997 Mazda MX6", image: "Pics/mx6.jpeg" }                  // FR=Front Engine Rear Wheel Drive 
-  ];                                                                         // F4=Front Engine 4 Wheel Drive
+    { name: "1992-1996 Toyota Carina", image: "Pics/Toyota_Carina.jpg" },   
+    { name: "1996-2000 Honda Civic", image: "Pics/Honda_Civic.jpg" },        
+    { name: "1994-2001 Honda Integra", image: "Pics/DC2.jpg" },             
+    { name: "1995-2000 Toyota Corolla Levin", image: "Pics/AE111.jpg" },    
+    { name: "1991-1997 Mazda MX6", image: "Pics/mx6.jpeg" },
+    { name: "1991-1995 Honda Civic", image: "Pics/EG6.jpg"}
+  ]; 
+
+//Variables containing all the cars in an Array
+//(separated by Region and wheels driven)
+// J=Japan, A=America, E=Europe
+// FF=Front Engine Front Wheel Drive
+// FR=Front Engine Rear Wheel Drive 
+ // F4=Front Engine 4 Wheel Drive
 
   const JFR = [
     { name: "1991-2002 Mazda RX7", image: "Pics/RX7.jpg" },
