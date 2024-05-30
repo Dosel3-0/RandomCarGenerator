@@ -2,9 +2,9 @@
 const cars = {
   american: {
       FF: [
-          { name: "1984-1986 Dodge Omni GLH", image: "Pics/Omni.jpg" },
+          { name: "1986-1986 Shelby Dodge Omni GLHS", image: "Pics/Omni.jpg" },
           { name: "1971-1978 Cadillac Eldorado", image: "Pics/Eldorado.jpg" },
-          { name: "1993-2007 Ford Probe", image: "Pics/Probe.jpeg" },
+          { name: "1992-1997 Ford Probe", image: "Pics/Probe.jpeg" },
           { name: "2005-2010 Chevrolet Cobalt SS", image: "Pics/Cobalt.jpg" },
           { name: "1986-1992 Oldsmobile Toronado", image: "Pics/Toronado.jpg" }
       ],
@@ -34,7 +34,7 @@ const cars = {
       FR: [
           { name: "1967-1968 Triumph TR5", image: "Pics/TR5.jpg" },
           { name: "2001-2003 Mercedes C32 AMG", image: "Pics/C32.jpg" },
-          { name: "2005-2011 BMW 335i", image: "Pics/335i.JPG" },
+          { name: "2006-2012 BMW 335i", image: "Pics/335i.JPG" },
           { name: "1977-1981 Talbot Sunbeam Lotus", image: "Pics/Talbot.jpg" },
           { name: "1962-1973 Lotus Elan", image: "Pics/Elan.jpeg" }
       ],
